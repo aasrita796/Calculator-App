@@ -50,6 +50,3 @@ This project is ideal for beginners to practice Python basics and understand how
 
 ## 👩‍💻 Author
 Aasrita Sangani
-
-## 📄 License
-This project is open-source and available under the MIT License.
